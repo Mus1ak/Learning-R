@@ -8,8 +8,7 @@ Welcome to the Learning R Language repository! This repository is designed to he
 - [Data Structures](https://github.com/Mus1ak/Learning-R/tree/master/DataStructers)
 - [Conditionals](https://github.com/Mus1ak/Learning-R/tree/master/DecisionMaking)
 - [Loops](#loops)
-- [User-defined Functions](#user-defined-functions)
-- [Contributing](https://github.com/Mus1ak/Learning-R/tree/master/Loops)
+- [User-defined Functions](https://github.com/Mus1ak/Learning-R/tree/master/Functions)
 
 ## Introduction
 
