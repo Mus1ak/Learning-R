@@ -4,14 +4,12 @@ Welcome to the Learning R Language repository! This repository is designed to he
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Basics](#basics)
-- [Data Structures](#data-structures)
-- [Conditionals](#conditionals)
+- [Basics](https://github.com/Mus1ak/Learning-R/tree/master/Basics)
+- [Data Structures](https://github.com/Mus1ak/Learning-R/tree/master/DataStructers)
+- [Conditionals](https://github.com/Mus1ak/Learning-R/tree/master/DecisionMaking)
 - [Loops](#loops)
 - [User-defined Functions](#user-defined-functions)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](https://github.com/Mus1ak/Learning-R/tree/master/Loops)
 
 ## Introduction
 
